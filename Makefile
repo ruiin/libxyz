@@ -6,7 +6,8 @@
 all:
 	@echo 'Nothing to do so far'
 
-
+test:
+	@echo 'Nothing to do so far'
 
 
 
